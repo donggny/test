@@ -67,3 +67,5 @@ st.markdown("""
 - [Talk To Me In Korean](https://www.talktomeinkorean.com): 다양한 한국어 학습 자료를 제공하는 웹사이트
 - [How to Study Korean](https://www.howtostudykorean.com): 초급부터 고급까지 단계별 한국어 학습 자료 제공
 """)
+
+session.write('hello')
