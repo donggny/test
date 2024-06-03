@@ -64,3 +64,4 @@ else:
     st.write(f"총 점수: {st.session_state.score} / {len(questions)}")
     if st.button("다시 시작"):
         restart_quiz()
+session.write('good')
